@@ -2,7 +2,7 @@ import React from 'react'
 import styles from '../styles/About.module.scss'
 import Header from '../components/UI/Header'
 import Footer from '../components/UI/Footer2'
-import Gallery from '../components/about/gallery'
+import Gallery from '../components/about/Gallery'
 
 const About = () => {
   console.log("hello");
