@@ -7,6 +7,7 @@
     "start": "next start",
     "lint": "next lint",
     "build": "CI= npm run build"
+    
   },
   "dependencies": {
     "axios": "^0.27.2",
